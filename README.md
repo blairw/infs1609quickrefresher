@@ -190,7 +190,7 @@ public class Animal {
 }
 
 public class Cat extends Animal {
-    // abstracting the idea of a Dog against the idea of an Animal
+    // abstracting the idea of a Cat against the idea of an Animal
 
     private int meowLevel;
 
