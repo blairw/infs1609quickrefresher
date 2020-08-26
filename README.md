@@ -127,8 +127,8 @@ Especially in relation to the first method:
 
 - `public` modifier &mdash; as opposed to `private`, `protected`
 - `static` modifier
-    - ⚠️ If you're ever asked what this means, _"it doesn't change"_ is not an adequate answer - that's more like a definition for `final`!
-    - 💡 When do we use `static` and when do we not use `static`? The answer involves objects.
+    - ⚠️&nbsp;&nbsp;If you're ever asked what this means, _"it doesn't change"_ is not an adequate answer - that's more like a definition for `final`!
+    - 💡&nbsp;&nbsp;When do we use `static` and when do we not use `static`? The answer involves objects.
 - `void` return value type &mdash; as opposed to `int`, `String`, `boolean` etc.
 - `main` &mdash; what's the significance of this method?
 - `String[] args` as the parameters &mdash; why?
@@ -238,7 +238,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
 | **Make an exact copy** | Create a new array of the same size and populate it using a for-loop | `private ArrayList<String> copiedList = new ArrayList<String>(myList);` (but see warning below) | 
 | **Process using a for-loop** | `for (int i = 0; i < myList.length; i++) {...}` (`i` becomes established as the current **index**) | `for (String thingy : myList) {...}` (`thingy` becomes established as the current **element**)
 
-⚠️ **Warning:** When you do something like `x = y` where these are both Objects (not primitives), `x` becomes a **reference** to `y`. This means that if you change `x`, you also change `y`.
+⚠️&nbsp;&nbsp;**Warning:** When you do something like `x = y` where these are both Objects (not primitives), `x` becomes a **reference** to `y`. This means that if you change `x`, you also change `y`.
 
 <a name="abstractclassesvinterfaces"></a>
 ## 💭&nbsp;&nbsp;8. Abstract Classes and Interfaces
