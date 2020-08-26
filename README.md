@@ -1,20 +1,22 @@
 # INFS1609 Quick Refresher
 This is a quick refresher of INFS1609 for students who are taking later courses that assume INFS1609 as prerequisite knowledge, but might need some help jogging their memory. 😅
 
-- [1. Elementary Programming](#elementaryprogramming)
-- [2. Selections](#selections)
-- [3. Loops](#loops)
-- [4. Methods](#methods)
-- [5. Arrays](#arrays)
-- [6. Object-Oriented Programming](#oop)
-- [7. ArrayLists](#arraylists)
-- [8. Abstract Classes and Interfaces](#abstractclassesvinterfaces)
-- [9. Tips and Tricks](#tipsandtricks)
+- [💻 1. Elementary Programming](#elementaryprogramming)
+- [👉🏻 2. Selections](#selections)
+- [🧵 3. Loops](#loops)
+- [🔨 4. Methods](#methods)
+- [📚 5. Arrays](#arrays)
+- [📦 6. Object-Oriented Programming](#oop)
+- [🗃 7. ArrayLists](#arraylists)
+- [💭 8. Abstract Classes and Interfaces](#abstractclassesvinterfaces)
+- [💡 9. Tips and Tricks](#tipsandtricks)
+
+INFS1609 is a programming course taught by the School of Information Systems and Technology Management (SISTM) at UNSW Business School. We pride ourselves on high-quality student-centric teaching. To find out more about us, please see the [UNSW SISTM website](https://www.business.unsw.edu.au/about/schools/information-systems-technology-management).
 
 ---
 
 <a name="elementaryprogramming"></a>
-## 1. Elementary Programming
+## 💻 1. Elementary Programming
 
 Do you remember these?
 
@@ -42,7 +44,7 @@ System.out.println(ch)                     // What would we see?
 ```
 
 <a name="selections"></a>
-## 2. Selections
+## 👉🏻 2. Selections
 
 Boolean shorthands:
 
