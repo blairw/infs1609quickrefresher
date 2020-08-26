@@ -236,7 +236,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
 | **Update element** | `myList[1] = "Bob";` | `myList.set(1, "Bob");` |
 | **Delete element** | Create new array, copy some elements from old array, remove the element to delete, copy the rest, replace old array with new array | `myStrings.remove(12)` |
 | **Make an exact copy** | Create a new array of the same size and populate it using a for-loop | `private ArrayList<String> copiedList = new ArrayList<String>(myList);` (but see warning below) | 
-| **Process using a for-loop** | `for (int i = 0; i < myList.length; i++) {...}` (`i` becomes established as the current **index**) | `for (String thingy : myList) {...}` (thingy`` becomes established as the current **element**)
+| **Process using a for-loop** | `for (int i = 0; i < myList.length; i++) {...}` (`i` becomes established as the current **index**) | `for (String thingy : myList) {...}` (`thingy` becomes established as the current **element**)
 
 ⚠️ **Warning:** When you do something like `x = y` where these are both Objects (not primitives), `x` becomes a **reference** to `y`. This means that if you change `x`, you also change `y`.
 
