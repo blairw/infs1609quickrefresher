@@ -152,7 +152,7 @@ int[] arrayCharlie = {3, 1, 4, 1, 5, 9, 2};
 String[] arrayDelta = {"Fish Fingers", "Custard"};
 ```
 
-Access an array element (⚠️ note that elements are numbered `0` .. `length - 1`):
+Access an array element (⚠️&nbsp;&nbsp;note that elements are numbered `0` .. `length - 1`):
 
 ```java
 arrayAlpha[0] = 42;
@@ -163,11 +163,11 @@ x = arrayAlpha[0];
 ## 📦&nbsp;&nbsp;6. Object-Oriented Programming
 
 **Object-Oriented Programming (OOP)** is the process of designing and implementing programs as systems of interacting objects. It is fundamentally based around two ideas:
-- **💭 Abstraction:** dividing the program into chunks (called objects) with its own data (stored in variables called fields) and methods. Similar objects are grouped together by object classes which have the same fields and methods but different field contents. Objects that belong to a class are called object instances. Advantages of abstraction include:
+- **💭&nbsp;&nbsp;Abstraction:** dividing the program into chunks (called objects) with its own data (stored in variables called fields) and methods. Similar objects are grouped together by object classes which have the same fields and methods but different field contents. Objects that belong to a class are called object instances. Advantages of abstraction include:
     - code reusability
     - clearer design
     - easier debugging
-- **📦 Encapsulation:** each object hides its implementation details from outsiders. Outsiders can only access the private implementation (how it works) through a public interface (how it can be used).
+- **📦&nbsp;&nbsp;Encapsulation:** each object hides its implementation details from outsiders. Outsiders can only access the private implementation (how it works) through a public interface (how it can be used).
 
 I'd be remiss if I didn't include some variation of [the classic](https://twitter.com/iamdevloper/status/727854065426804738):
 
