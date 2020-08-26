@@ -86,7 +86,7 @@ switch (numberOfRooms) {
 ```
 
 <a name="loops"></a>
-## 3. Loops
+## 🧵3. Loops
 
 While-loop:
 
@@ -105,7 +105,7 @@ for (int i = 5000; i > 1; i--) {
 ```
 
 <a name="methods"></a>
-## 4. Methods
+## 🔨4. Methods
 
 By the end of INFS1609, you should understand what every part of this means:
 
@@ -130,7 +130,7 @@ Especially in relation to the first method:
 - `String[] args` as the parameters &mdash; why?
 
 <a name="arrays"></a>
-## 5. Arrays
+## 📚5. Arrays
 
 An array is an ordered set of elements of the same type. It should not be confused with an object, a set of elements of different types.
 
@@ -156,7 +156,7 @@ x = arrayAlpha[0];
 ```
 
 <a name="oop"></a>
-## 6. Object-Oriented Programming
+## 📦6. Object-Oriented Programming
 
 **Object-Oriented Programming (OOP)** is the process of designing and implementing programs as systems of interacting objects. It is fundamentally based around two ideas:
 - **💭 Abstraction:** dividing the program into chunks (called objects) with its own data (stored in variables called fields) and methods. Similar objects are grouped together by object classes which have the same fields and methods but different field contents. Objects that belong to a class are called object instances. Advantages of abstraction include:
@@ -215,7 +215,7 @@ I can put an assign a `Cat` into a variable that is not of type `Cat` per se but
 
 
 <a name="arraylists"></a>
-## 7. ArrayLists
+## 🗃 7. ArrayLists
 
 Object-Oriented Programming also helps us make sense of ArrayLists. An ArrayList is an object class from the Java Class Library that does what an array of primitive types can do, but with methods that automate creating/reading/updating/deleting elements. Since ArrayList is an object class, every ArrayList object in existence is really an object that encapsulates traditional arrays and permits access to them through public methods like `add`, `get`, `set`, etc. Since ArrayLists come from the JCL, they must be explicitly imported: `import java.util.ArrayList;`.
 
@@ -237,7 +237,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
 ⚠️ **Warning:** When you do something like `x = y` where these are both Objects (not primitives), `x` becomes a **reference** to `y`. This means that if you change `x`, you also change `y`.
 
 <a name="abstractclassesvinterfaces"></a>
-## 8. Abstract Classes and Interfaces
+## 💭 8. Abstract Classes and Interfaces
 
 - An **abstract class** is a class that couldn't actually be instantiated, but defines the supertype of some other class(es) that could be instantiated. For example an `Animal` that is neither a `Cat` nor a `Dog` nor a `Fish` nor ... (you get the idea: there's no Animal that is not one of the subtypes).
 
@@ -247,7 +247,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
     3. A class can only extend one abstract class but could implement multiple interfaces.
 
 <a name="tipsandtricks"></a>
-## 9. Tips and Tricks
+## 💡 9. Tips and Tricks
 
 - 🤔 Just because the program compiles without errors doesn't mean that it will run properly.
 - 🐤 Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
