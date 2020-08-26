@@ -157,11 +157,11 @@ x = arrayAlpha[0];
 ## 6. Object-Oriented Programming
 
 **Object-Oriented Programming (OOP)** is the process of designing and implementing programs as systems of interacting objects. It is fundamentally based around two ideas:
-- **💭 Abstraction:** dividing the program into chunks (called objects) with its own data (stored in variables called fields) and methods. Similar objects are grouped together by object classes which have the same fields and methods but different field contents. Objects that belong to a class are called object instances. Advantages of abstraction include:
+- **💭 Abstraction:** dividing the program into chunks (called objects) with its own data (stored in variables called fields) and methods. Similar objects are grouped together by object classes which have the same fields and methods but different field contents. Objects that belong to a class are called object instances. Advantages of abstraction include:
     - code reusability
     - clearer design
     - easier debugging
-- **📦 Encapsulation:** each object hides its implementation details from outsiders. Outsiders can only access the private implementation (how it works) through a public interface (how it can be used).
+- **📦 Encapsulation:** each object hides its implementation details from outsiders. Outsiders can only access the private implementation (how it works) through a public interface (how it can be used).
 
 I'd be remiss if I didn't include some variation of the classic:
 
@@ -247,6 +247,6 @@ When creating an ArrayList we need to specify the type of objects it contains in
 <a name="tipsandtricks"></a>
 ## 9. Tips and Tricks
 
-- 🤔 Just because the program compiles without errors doesn't mean that it will run properly.
-- 🐤 Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
-- 📝 Document your code well, so that it actually makes sense - to others, but also, importantly, to yourself in future!
+- 🤔 Just because the program compiles without errors doesn't mean that it will run properly.
+- 🐤 Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
+- 📝 Document your code well, so that it actually makes sense - to others, but also, importantly, to yourself in future!
