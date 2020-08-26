@@ -253,8 +253,8 @@ When creating an ArrayList we need to specify the type of objects it contains in
 <a name="tipsandtricks"></a>
 ## 💡&nbsp;&nbsp;9. Tips and Tricks
 
-- 🤔 Just because the program compiles without errors doesn't mean that it will run properly.
-- 🐤 Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
-- 💭 If you're getting lost in your own logic, break up your code into smaller manageable chunks.
-- 📝 Document your code well, so that it makes sense - to others and to your future self!
-- 🍀 Good luck with your studies!
+- 🤔&nbsp;&nbsp;Just because the program compiles without errors doesn't mean that it will run properly.
+- 🐤&nbsp;&nbsp;Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
+- 💭&nbsp;&nbsp;If you're getting lost in your own logic, break up your code into smaller manageable chunks.
+- 📝&nbsp;&nbsp;Document your code well, so that it makes sense - to others and to your future self!
+- 🍀&nbsp;&nbsp;Good luck with your studies!
