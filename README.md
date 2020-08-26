@@ -260,7 +260,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
 ## 💡&nbsp;&nbsp;9. Tips and Tricks
 
 - 🤔&nbsp;&nbsp;Just because the program compiles without errors doesn't mean that it will run properly.
-- 🐤&nbsp;&nbsp;Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
+- 🐤&nbsp;&nbsp;Sometimes you just need to explain it to somebody - a friend, a colleague, or even a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 - 💭&nbsp;&nbsp;If you're getting lost in your own logic, break up your code into smaller manageable chunks.
 - 📝&nbsp;&nbsp;Document your code well, so that it makes sense - to others and to your future self!
 - 🍀&nbsp;&nbsp;Good luck with your studies!
