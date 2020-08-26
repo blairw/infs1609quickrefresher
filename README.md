@@ -127,8 +127,8 @@ Especially in relation to the first method:
 
 - `public` modifier &mdash; as opposed to `private`, `protected`
 - `static` modifier
-    - ⚠️ If you're ever asked what this means, _"it doesn't change"_ is not an adequate answer - that's more like a definition for `final`!
-    - 💡 When do we use `static` and when do we not use `static`? The answer involves objects.
+    - ⚠️ If you're ever asked what this means, _"it doesn't change"_ is not an adequate answer - that's more like a definition for `final`!
+    - 💡 When do we use `static` and when do we not use `static`? The answer involves objects.
 - `void` return value type &mdash; as opposed to `int`, `String`, `boolean` etc.
 - `main` &mdash; what's the significance of this method?
 - `String[] args` as the parameters &mdash; why?
@@ -255,4 +255,6 @@ When creating an ArrayList we need to specify the type of objects it contains in
 
 - 🤔 Just because the program compiles without errors doesn't mean that it will run properly.
 - 🐤 Sometimes you just need to explain it to somebody - a friend, a colleague, or even a rubber duck.
-- 📝 Document your code well, so that it actually makes sense - to others, but also, importantly, to yourself in future!
+- 💭 If you're getting lost in your own logic, break up your code into smaller manageable chunks.
+- 📝 Document your code well, so that it makes sense - to others and to your future self!
+- 🍀 Good luck with your studies!
