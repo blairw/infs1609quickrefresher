@@ -169,7 +169,7 @@ x = arrayAlpha[0];
     - easier debugging
 - **📦 Encapsulation:** each object hides its implementation details from outsiders. Outsiders can only access the private implementation (how it works) through a public interface (how it can be used).
 
-I'd be remiss if I didn't include some variation of the classic:
+I'd be remiss if I didn't include some variation of [the classic](https://twitter.com/iamdevloper/status/727854065426804738):
 
 ```java
 public class Animal {
