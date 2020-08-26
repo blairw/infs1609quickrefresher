@@ -195,7 +195,7 @@ public class Cat extends Animal {
     private int meowLevel;
 
     public int getMeowLevel() {
-        return this.meowLevel();
+        return this.meowLevel;
     }
 
     public void setMeowLevel(int meowLevel) {
