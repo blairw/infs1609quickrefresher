@@ -146,7 +146,7 @@ int[] arrayCharlie = {3, 1, 4, 1, 5, 9, 2};
 String[] arrayDelta = {"Fish Fingers", "Custard"};
 ```
 
-Access an array element (⚠️ note that elements are numbered `0` .. `length - 1`):
+Access an array element (⚠️ note that elements are numbered `0` .. `length - 1`):
 
 ```java
 arrayAlpha[0] = 42;
@@ -232,7 +232,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
 | **Make an exact copy** | Create a new array of the same size and populate it using a for-loop | `private ArrayList<String> copiedList = new ArrayList<String>(myList);` (but see warning below) | 
 | **Process using a for-loop** | `for (int i = 0; i < myList.length; i++) {...}` (`i` becomes established as the current **index**) | `for (String thingy : myList) {...}` (thingy`` becomes established as the current **element**)
 
-⚠️ **Warning:** When you do something like `x = y` where these are both Objects (not primitives), `x` becomes a **reference** to `y`. This means that if you change `x`, you also change `y`.
+⚠️ **Warning:** When you do something like `x = y` where these are both Objects (not primitives), `x` becomes a **reference** to `y`. This means that if you change `x`, you also change `y`.
 
 <a name="abstractclassesvinterfaces"></a>
 ## 8. Abstract Classes and Interfaces
