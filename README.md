@@ -1,5 +1,9 @@
 # INFS1609 Quick Refresher
-This is a quick refresher of INFS1609 for students who are taking later courses that assume INFS1609 as prerequisite knowledge, but might need some help jogging their memory. 😅
+This is a quick refresher of INFS1609 for UNSW students who are taking later courses that assume INFS1609 as prerequisite knowledge, but might need some help jogging their memory. 😅
+
+These notes will reacquaint you with some concepts that you have previously studied in depth, but these notes will not fully explain these concepts for you. For that, please refer to your notes from when you studied INFS1609.
+
+**Contents:**
 
 - [💻 1. Elementary Programming](#elementaryprogramming)
 - [👉🏻 2. Selections](#selections)
@@ -11,7 +15,7 @@ This is a quick refresher of INFS1609 for students who are taking later courses 
 - [💭 8. Abstract Classes and Interfaces](#abstractclassesvinterfaces)
 - [💡 9. Tips and Tricks](#tipsandtricks)
 
-INFS1609 is a programming course taught by the School of Information Systems and Technology Management (SISTM) at UNSW Business School. We pride ourselves on high-quality student-centric teaching. To find out more about us, please see the [UNSW SISTM website](https://www.business.unsw.edu.au/about/schools/information-systems-technology-management).
+_INFS1609 is a programming course taught by the School of Information Systems and Technology Management (SISTM) at UNSW Business School. We pride ourselves on high-quality student-centric teaching. To find out more about us, please see the [UNSW SISTM website](https://www.business.unsw.edu.au/about/schools/information-systems-technology-management)._
 
 ---
 
