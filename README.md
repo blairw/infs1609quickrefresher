@@ -86,7 +86,7 @@ switch (numberOfRooms) {
 ```
 
 <a name="loops"></a>
-## 🧵3. Loops
+## 🧵 3. Loops
 
 While-loop:
 
@@ -130,7 +130,7 @@ Especially in relation to the first method:
 - `String[] args` as the parameters &mdash; why?
 
 <a name="arrays"></a>
-## 📚5. Arrays
+## 📚 5. Arrays
 
 An array is an ordered set of elements of the same type. It should not be confused with an object, a set of elements of different types.
 
@@ -156,7 +156,7 @@ x = arrayAlpha[0];
 ```
 
 <a name="oop"></a>
-## 📦6. Object-Oriented Programming
+## 📦 6. Object-Oriented Programming
 
 **Object-Oriented Programming (OOP)** is the process of designing and implementing programs as systems of interacting objects. It is fundamentally based around two ideas:
 - **💭 Abstraction:** dividing the program into chunks (called objects) with its own data (stored in variables called fields) and methods. Similar objects are grouped together by object classes which have the same fields and methods but different field contents. Objects that belong to a class are called object instances. Advantages of abstraction include:
