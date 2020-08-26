@@ -92,11 +92,23 @@ switch (numberOfRooms) {
 <a name="loops"></a>
 ## 🧵&nbsp;&nbsp;3. Loops
 
-While-loop:
+While-loop (this one will eventually end):
+
+```java
+while (x < y) {
+    x++;
+    // x starts off less than y, and you grow it
+    // until it is no longer less than y
+}
+```
+
+While-loop (this one will never end):
 
 ```java
 while (x > y) {
     x++;
+    // if x is already bigger than y, and you keep growing x,
+    // then the condition will always be true!
 }
 ```
 
