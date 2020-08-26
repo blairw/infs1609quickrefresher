@@ -1,5 +1,5 @@
 # INFS1609 Quick Refresher
-This is a quick refresher of INFS1609 for UNSW students who are taking later courses that assume INFS1609 as prerequisite knowledge, but might need some help jogging their memory. 😅
+This is a quick refresher of [INFS1609](https://www.business.unsw.edu.au/degrees-courses/course-outlines/INFS1609) (_Fundamentals of Business Programming_) for UNSW students who are taking later courses that assume INFS1609 as prerequisite knowledge, but might need some help jogging their memory. 😅
 
 These notes will reacquaint you with some concepts that you have previously studied in depth, but these notes will not fully explain these concepts for you. For that, please refer to your notes from when you studied INFS1609.
 
