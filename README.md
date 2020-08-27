@@ -26,6 +26,8 @@ Authors: [Blair Wang](https://blair.wang/) <small>(UNSW Business School)</small>
 <a name="elementaryprogramming"></a>
 ## 💻&nbsp;&nbsp;1. Elementary Programming
 
+**If you're using NetBeans 11, you'll need to set it up using the steps documented at [infs2605fxstarterkit](https://github.com/blairw/infs2605fxstarterkit).**
+
 Do you remember these?
 
 - Java's numeric primitive data types: `byte`, `short`, `int`, `long`, `float`, `double`
