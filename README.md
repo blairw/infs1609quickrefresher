@@ -19,7 +19,7 @@ _(Itemised based on concepts, not teaching weeks.)_
 
 &nbsp;
 
-Authors: [Blair Wang](https://blair.wang/) <small>(UNSW Business School)</small>. See also the [GitHub repo](https://github.com/blairw/infs1609quickrefresher).
+Authors: [Blair Wang](https://blair.wang/), Wilbert Wu <small>(UNSW Business School)</small>. See also the [GitHub repo](https://github.com/blairw/infs1609quickrefresher).
 
 ---
 
