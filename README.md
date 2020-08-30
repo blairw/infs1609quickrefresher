@@ -32,6 +32,7 @@ Do you remember these?
 
 - Java's numeric primitive data types: `byte`, `short`, `int`, `long`, `float`, `double`
 - Java's text-related data types:`char` and `String`
+- Java's Boolean data type: `boolean`
 - Operators (e.g. `x + y`) and increments/decrements (e.g. `x++`, `y--`)
 - Implicit and explicit casting
 
@@ -76,7 +77,7 @@ if (x > y) {
 Ternary operator:
 
 ```java
-int numberOfCats = (numberofRooms > 2 ? desiredCats * 2 : desiredCats)
+int numberOfCats = (numberofRooms > 2 ? desiredCats * 2 : desiredCats);
 ```
 
 Switch statements:
@@ -261,7 +262,7 @@ When creating an ArrayList we need to specify the type of objects it contains in
 <a name="abstractclassesvinterfaces"></a>
 ## 💭&nbsp;&nbsp;8. Abstract Classes and Interfaces
 
-- An **abstract class** is a class that couldn't actually be instantiated, but defines the supertype of some other class(es) that could be instantiated. For example an `Animal` that is neither a `Cat` nor a `Dog` nor a `Fish` nor ... (you get the idea: there's no Animal that is not one of the subtypes).
+- An **abstract class** is a class that can't actually be instantiated, but defines the supertype of some other class(es) that could be instantiated. For example an `Animal` that is neither a `Cat` nor a `Dog` nor a `Fish` nor ... (you get the idea: there's no Animal that is not one of the subtypes).
 
 - An **interface** is a promise to fulfil some functionality. It's similar to an abstract class but:
     1. The intention is different (promise to fulfil vs. ideal-typical abstraction / _is-a_ relationship vs. _is-a-kind-of_ relationship), and
